@@ -1,5 +1,3 @@
 [submodule "frontend"]
-	url = https://github.com/AbdullahAymanMSRE/university-lms-frontend.git
-[submodule "frontend2"]
-	path = frontend2
+	path = frontend
 	url = https://github.com/AbdullahAymanMSRE/university-lms-frontend.git
